@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" ?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<string>Content/Models/simpleShip</string>
+	<string>Content/Models/AIShip1</string>
+	<string>Content/Models/AIShip2</string>
+	<string>Content/Models/AIShip3</string>
+	<string>Content/Models/AIShip4</string>
+	<string>Content/Models/AIShip5</string>
+	<string>Content/Models/AIShip6</string>
+	<string>Content/Models/AIShip7</string>
+	<string>Content/Models/AIShip8</string>
+	<string>Content/Models/AIShip9</string>
+	<string>Content/Models/AIShip10</string>
+	<string>Content/Models/RigidShip</string>
+	<string>Content/Models/GhostShip</string>
+	<string>Content/Models/schanze</string>
+	<string>Content/Models/ParticleSystem</string>
+	<string>Content/Models/PickUp/bomb1</string>
+	<string>Content/Models/PickUp/banane1</string>
+	<string>Content/Models/PickUp/shield1</string>
+	<string>Content/Models/PickUp/turbo1</string>
+	<string>Content/Models/PickUp/healthpack1</string>
+	<string>Content/Models/PickUp/rocket2</string>
+	<string>Content/Models/OtherStuff/box1</string>
+	<string>Content/Models/OtherStuff/diceblack</string>
+	<string>Content/Models/OtherStuff/diceblue</string>
+	<string>Content/Models/OtherStuff/dicegreen</string>
+	<string>Content/Models/OtherStuff/dicered</string>
+	<string>Content/Models/OtherStuff/dicewhite</string>
+	<string>Content/Models/OtherStuff/rocket1</string>
+	<!--<string>Content/Models/Ship/airtrain1</string>
+	<string>Content/Models/Ship/delorean1</string>
+	<string>Content/Models/Ship/dirtynutshell1</string>
+	<string>Content/Models/Ship/enterprise1</string>
+	<string>Content/Models/Ship/futurama1</string>
+	<string>Content/Models/Ship/hovercar1</string>
+	<string>Content/Models/Ship/hypersonic1</string>
+	<string>Content/Models/Ship/schakira1</string>
+	<string>Content/Models/Ship/spaceshuttle1</string>
+	<string>Content/Models/Ship/titanic1</string>-->
+	
+</ArrayOfString>

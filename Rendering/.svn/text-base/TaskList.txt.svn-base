@@ -1,0 +1,51 @@
+!!! Blinn.fx FEHLT BEIM KOMILIEREN - BITTE HOCHLADEN !!!
+
+-Make it work				alle
+-Custom Mesh				done
+  -custom pipeline für mesh
+-ManagedShader erzeugen		done
+
+-bounding spheres der TrackSegments enthalten inkorrekte werte (zu klein)
+
+-model geometry für physik freilegen.
+-levelgeometrie in track einfügen
+-schnittstelle für partikeleffekte
+-variierende radien im track		clemens  done
+-rückspiegel
+-einfache console 
+
+- Effekte
+	-Shadowmap
+	-Track shader
+	-Blinn lighting
+	-glass
+	-chrome
+	-phong
+	-skybox
+	-toon
+	-HDR
+	-MotionBlur
+	-Lens flare bei lichtern?
+	
+
+Milestone K2
+
+-zentrale Lichtquelle (Sonne)		phillip
+	-Shadowmap (alle objekte)		phillip
+	
+-Environment map					clemens
+	-diffuse
+	-cooler tunnel effect
+	-wie rendern? 
+	
+-GameEnvironment
+	-dynamisch
+	
+-Shader
+	-Glass (Cockpit scheiben)
+	-Chrom
+	-Toon
+	-Phong
+	
+-Performance Meter
+	-ms angabe der rendertime

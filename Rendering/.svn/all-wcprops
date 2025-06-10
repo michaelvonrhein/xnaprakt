@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/XNA_WS_07-08/!svn/ver/1111/trunk/Rendering
+END
+RenderingPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/942/trunk/Rendering/RenderingPlugin.cs
+END
+ChaseCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/XNA_WS_07-08/!svn/ver/1025/trunk/Rendering/ChaseCamera.cs
+END
+ManagedTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/98/trunk/Rendering/ManagedTexture.cs
+END
+Sunlight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/1067/trunk/Rendering/Sunlight.cs
+END
+Spotlight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/543/trunk/Rendering/Spotlight.cs
+END
+SceneGraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/1073/trunk/Rendering/SceneGraph.cs
+END
+Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/XNA_WS_07-08/!svn/ver/1017/trunk/Rendering/Camera.cs
+END
+TaskList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/524/trunk/Rendering/TaskList.txt
+END
+RenderManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/1111/trunk/Rendering/RenderManager.cs
+END
+Bugs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/XNA_WS_07-08/!svn/ver/580/trunk/Rendering/Bugs.txt
+END

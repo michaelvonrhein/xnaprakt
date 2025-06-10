@@ -1,0 +1,16 @@
+PROBLEM Description:
+Wenn ich das Programm minimiere tritt in ShadowMapEffect hier ein Fehler auf
+(oder auch maximiere) : teilweise bekomme ich sogar nen bluescreen!
+d.SetRenderTarget(0, renderTarget);
+
+PROBLEM Solution:
+Programm nicht minimieren (oder maximieren).
+(fixed - philipp)
+
+
+-Trackshader lighting inkonsistent bei shaderquality wechsel high->medium
+
+PROBLEM Description:  FIXED
+Programm kompiliert.
+Wenn ich die benötigte DLL hinzufüge bekomme ich Anzeigefehler bei den Raumschiffen u. Objekten.
+Dreiecke reichen teilweise bis ins Unendliche. Ist das nur bei mir so?

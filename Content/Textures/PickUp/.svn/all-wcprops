@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/XNA_WS_07-08/!svn/ver/451/trunk/Content/Textures/PickUp
+END
+bomb.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/XNA_WS_07-08/!svn/ver/441/trunk/Content/Textures/PickUp/bomb.png
+END
+banane.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/451/trunk/Content/Textures/PickUp/banane.png
+END
+healthpack.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/XNA_WS_07-08/!svn/ver/441/trunk/Content/Textures/PickUp/healthpack.png
+END
+shield.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/451/trunk/Content/Textures/PickUp/shield.png
+END
+turbo.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/451/trunk/Content/Textures/PickUp/turbo.png
+END

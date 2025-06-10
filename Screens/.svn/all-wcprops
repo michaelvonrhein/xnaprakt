@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XNA_WS_07-08/!svn/ver/1115/trunk/Screens
+END
+OptionsScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/XNA_WS_07-08/!svn/ver/1053/trunk/Screens/OptionsScreen.cs
+END
+ShowCaseScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/1044/trunk/Screens/ShowCaseScreen.cs
+END
+LoadingScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/834/trunk/Screens/LoadingScreen.cs
+END
+MessageBoxScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/127/trunk/Screens/MessageBoxScreen.cs
+END
+BackgroundScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/1062/trunk/Screens/BackgroundScreen.cs
+END
+PauseMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/871/trunk/Screens/PauseMenuScreen.cs
+END
+SelectShipScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/792/trunk/Screens/SelectShipScreen.cs
+END
+MenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/1062/trunk/Screens/MenuScreen.cs
+END
+SelectTrackScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/XNA_WS_07-08/!svn/ver/1044/trunk/Screens/SelectTrackScreen.cs
+END
+ParticleSystemScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/XNA_WS_07-08/!svn/ver/1062/trunk/Screens/ParticleSystemScreen.cs
+END
+MainMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/1072/trunk/Screens/MainMenuScreen.cs
+END
+FlyScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/XNA_WS_07-08/!svn/ver/1115/trunk/Screens/FlyScreen.cs
+END

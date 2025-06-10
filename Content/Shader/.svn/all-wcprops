@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/XNA_WS_07-08/!svn/ver/1103/trunk/Content/Shader
+END
+Particle.fx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/689/trunk/Content/Shader/Particle.fx
+END
+ParticleExplosion.fx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Content/Shader/ParticleExplosion.fx
+END
+Bloom.fx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/XNA_WS_07-08/!svn/ver/612/trunk/Content/Shader/Bloom.fx
+END
+ParticleFire.fx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Content/Shader/ParticleFire.fx
+END
+Phong.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/1073/trunk/Content/Shader/Phong.fx
+END
+LensFlare.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/1050/trunk/Content/Shader/LensFlare.fx
+END
+ParticleThrust.fx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/1026/trunk/Content/Shader/ParticleThrust.fx
+END
+Chrome.fx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/XNA_WS_07-08/!svn/ver/1012/trunk/Content/Shader/Chrome.fx
+END
+ParticleBillboard.fx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/XNA_WS_07-08/!svn/ver/794/trunk/Content/Shader/ParticleBillboard.fx
+END
+SkyBox.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/325/trunk/Content/Shader/SkyBox.fx
+END
+Toon.fx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/713/trunk/Content/Shader/Toon.fx
+END
+ShieldDistortionGen.fx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/XNA_WS_07-08/!svn/ver/902/trunk/Content/Shader/ShieldDistortionGen.fx
+END
+Gauss.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/1056/trunk/Content/Shader/Gauss.fx
+END
+Planet.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/942/trunk/Content/Shader/Planet.fx
+END
+ShadowMap.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/1103/trunk/Content/Shader/ShadowMap.fx
+END
+TrackSign.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/628/trunk/Content/Shader/TrackSign.fx
+END
+TrackBack.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/942/trunk/Content/Shader/TrackBack.fx
+END
+ParticlePowerUp.fx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Content/Shader/ParticlePowerUp.fx
+END
+Shadow.fx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/XNA_WS_07-08/!svn/ver/1103/trunk/Content/Shader/Shadow.fx
+END
+ShieldDistortion.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/902/trunk/Content/Shader/ShieldDistortion.fx
+END
+OldCamera.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/XNA_WS_07-08/!svn/ver/980/trunk/Content/Shader/OldCamera.fx
+END
+ParticleAdvanced.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Content/Shader/ParticleAdvanced.fx
+END
+MiniMap.fx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/XNA_WS_07-08/!svn/ver/629/trunk/Content/Shader/MiniMap.fx
+END
+MotionBlur.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/613/trunk/Content/Shader/MotionBlur.fx
+END
+TrackBase.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/XNA_WS_07-08/!svn/ver/1103/trunk/Content/Shader/TrackBase.fx
+END
+ParticleMap.fx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Content/Shader/ParticleMap.fx
+END

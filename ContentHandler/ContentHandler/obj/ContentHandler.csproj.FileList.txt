@@ -1,0 +1,5 @@
+bin\x86\Debug\ContentHandler.dll
+bin\x86\Debug\ContentHandler.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\ContentHandler.dll
+obj\x86\Debug\ContentHandler.pdb

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/XNA_WS_07-08/!svn/ver/1124/trunk/AI
+END
+ConservativeStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XNA_WS_07-08/!svn/ver/847/trunk/AI/ConservativeStrategy.cs
+END
+WaypointStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/XNA_WS_07-08/!svn/ver/1115/trunk/AI/WaypointStrategy.cs
+END
+AISystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/XNA_WS_07-08/!svn/ver/808/trunk/AI/AISystem.cs
+END
+Agent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/XNA_WS_07-08/!svn/ver/571/trunk/AI/Agent.cs
+END
+SteeringAgent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/XNA_WS_07-08/!svn/ver/880/trunk/AI/SteeringAgent.cs
+END
+KamikazeStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/880/trunk/AI/KamikazeStrategy.cs
+END
+AggressiveStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/882/trunk/AI/AggressiveStrategy.cs
+END
+SteeringStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/XNA_WS_07-08/!svn/ver/1124/trunk/AI/SteeringStrategy.cs
+END
+InterpolationMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XNA_WS_07-08/!svn/ver/847/trunk/AI/InterpolationMap.cs
+END
+RocketStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/XNA_WS_07-08/!svn/ver/886/trunk/AI/RocketStrategy.cs
+END

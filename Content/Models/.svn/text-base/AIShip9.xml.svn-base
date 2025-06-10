@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+		<GeneralInfo>
+			<TypeName>AIShip9</TypeName>
+			<ModelName>Titanic</ModelName>
+		</GeneralInfo>
+
+		<Physics>
+			<Type>SteeringBody</Type>
+			<Mass>5000</Mass>
+			<MassCenter>0 0 0</MassCenter>
+			<ThrustFactor>0.008</ThrustFactor>
+			<SteeringFactor>0.0055</SteeringFactor>
+			<Hover>true</Hover>
+			<Drag>true</Drag>
+			<DragFactor>2 2 2</DragFactor>
+			<Gravity>true</Gravity>
+		</Physics>
+
+		<Rendering>
+			<Type>MainRenderer</Type>
+			<Paths>
+				<Item>
+					<Key>mesh</Key>
+					<Value>Content/Models/Ship/titanic</Value>
+				</Item>
+				<Item>
+					<Key>tex1</Key>
+					<Value>Ship/titanic2</Value>
+				</Item>
+				<Item>
+					<Key>shader1</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex2</Key>
+					<Value>Ship/titanic3</Value>
+				</Item>
+				<Item>
+					<Key>shader2</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex3</Key>
+					<Value>Ship/titanic5</Value>
+				</Item>
+				<Item>
+					<Key>shader3</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex4</Key>
+					<Value>Ship/titanic1</Value>
+				</Item>
+				<Item>
+					<Key>shader4</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex5</Key>
+					<Value>Ship/titanic4</Value>
+				</Item>
+				<Item>
+					<Key>shader5</Key>
+					<Value>Phong</Value>
+				</Item>
+			</Paths>
+			<MatrixParameters>
+				<Item>
+					<Key>orientation</Key>
+					<Value>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Value>
+				</Item>
+			</MatrixParameters>
+			<VectorParameters>
+				<Item>
+					<Key>position</Key>
+					<Value>10 10 10 1</Value>
+				</Item>
+			</VectorParameters>
+			<FloatParameters>
+				<Item>
+					<Key>scale</Key>
+					<Value>0.065</Value>
+				</Item>
+			</FloatParameters>
+			<BoolParameters>
+
+			</BoolParameters>
+			<IntParameters>
+
+			</IntParameters>
+		</Rendering>
+
+		<Logic>
+			<Type>SHIP</Type>
+			<Health>10</Health>
+			<Damage>0.001</Damage>
+			<Position>
+				-5.75 -1.25  1.84
+				0     3.3  10.4
+				5.75 -1.25  1.84
+			</Position>
+			<Scale>
+				1 1 1
+				3 2 3
+				1 1 1
+			</Scale>
+			<Orientation>
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+			</Orientation>
+		</Logic>
+
+		<Input>
+			<Type>AI_AGGRESSIVE</Type>
+		</Input>
+
+	</Asset>
+</XnaContent>

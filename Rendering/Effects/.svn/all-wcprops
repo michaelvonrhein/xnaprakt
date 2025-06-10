@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/XNA_WS_07-08/!svn/ver/1110/trunk/Rendering/Effects
+END
+BloomEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/XNA_WS_07-08/!svn/ver/529/trunk/Rendering/Effects/BloomEffect.cs
+END
+MirrorEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/1019/trunk/Rendering/Effects/MirrorEffect.cs
+END
+LensFlareEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/XNA_WS_07-08/!svn/ver/1110/trunk/Rendering/Effects/LensFlareEffect.cs
+END
+PhongEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/1073/trunk/Rendering/Effects/PhongEffect.cs
+END
+ChromeEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/944/trunk/Rendering/Effects/ChromeEffect.cs
+END
+SkyBoxEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/713/trunk/Rendering/Effects/SkyBoxEffect.cs
+END
+ToonEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/XNA_WS_07-08/!svn/ver/942/trunk/Rendering/Effects/ToonEffect.cs
+END
+GaussEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/1056/trunk/Rendering/Effects/GaussEffect.cs
+END
+PlanetEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/942/trunk/Rendering/Effects/PlanetEffect.cs
+END
+ShadowMapEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/XNA_WS_07-08/!svn/ver/1068/trunk/Rendering/Effects/ShadowMapEffect.cs
+END
+OldCameraEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/XNA_WS_07-08/!svn/ver/980/trunk/Rendering/Effects/OldCameraEffect.cs
+END
+ShieldDistortionEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/XNA_WS_07-08/!svn/ver/984/trunk/Rendering/Effects/ShieldDistortionEffect.cs
+END
+MotionBlurEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/XNA_WS_07-08/!svn/ver/612/trunk/Rendering/Effects/MotionBlurEffect.cs
+END
+MiniMapEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/XNA_WS_07-08/!svn/ver/1029/trunk/Rendering/Effects/MiniMapEffect.cs
+END
+ManagedEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/724/trunk/Rendering/Effects/ManagedEffect.cs
+END

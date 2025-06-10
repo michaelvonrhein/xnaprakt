@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+	<GeneralInfo>
+		<TypeName>simpleShip2</TypeName>
+		<ModelName>Delorean</ModelName>
+	</GeneralInfo>
+	
+	<Physics>
+		<Type>SteeringBody</Type>
+		<Mass>1250</Mass>
+		<MassCenter>0 0 0</MassCenter>
+		<ThrustFactor>0.004125</ThrustFactor>
+		<SteeringFactor>0.004</SteeringFactor>
+		<Hover>true</Hover>
+		<Drag>true</Drag>
+		<DragFactor>3 3 4</DragFactor>
+		<Gravity>true</Gravity>
+	</Physics>
+
+	<Rendering>
+		<Type>MainRenderer</Type>
+		<Paths>
+			<Item>
+				<Key>mesh</Key>
+				<Value>Content/Models/Ship/delorean</Value>
+			</Item>
+			<Item>
+				<Key>tex1</Key>
+				<Value>Ship/delorean</Value>
+			</Item>
+			<Item>
+				<Key>shader1</Key>
+				<Value>Phong</Value>
+			</Item>
+			<Item>
+				<Key>tex2</Key>
+				<Value>Ship/delorean</Value>
+			</Item>
+			<Item>
+				<Key>shader2</Key>
+				<Value>Phong</Value>
+			</Item>
+			<Item>
+				<Key>tex3</Key>
+				<Value>Ship/delorean</Value>
+			</Item>
+			<Item>
+				<Key>shader3</Key>
+				<Value>>Phong</Value>
+			</Item>
+	
+		</Paths>
+		<MatrixParameters>
+			<Item>
+				<Key>orientation</Key>
+				<Value>0 0 -1 0 0 1 0 0 1 0 0 0 0 0 0 1</Value>
+			</Item>
+		</MatrixParameters>
+		<VectorParameters>
+			<Item>
+				<Key>position</Key>
+				<Value>10 10 10 1</Value>
+			</Item>
+		</VectorParameters>
+		<FloatParameters>
+			<Item>
+				<Key>scale</Key>
+				<Value>0.085</Value>
+			</Item>
+		</FloatParameters>
+		<BoolParameters>
+				  
+		</BoolParameters>
+		<IntParameters>
+			
+		</IntParameters>
+	</Rendering>
+
+	<Logic>
+		<Type>SHIP</Type>
+		<Health>5</Health>
+		<Damage>0.0005</Damage>
+		<Position>
+			-0.65 1.1 5.6
+			0.65 1.1 5.6
+		</Position>
+		<Scale>
+			1 2 1
+			1 2 1
+		</Scale>
+		<Orientation>
+			1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+			1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+		</Orientation>
+	</Logic>
+
+	<Input>
+		<Type>PLAYER1</Type>
+	</Input>
+	
+</Asset>
+</XnaContent>
