@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/XNA_WS_07-08/!svn/ver/988/trunk/Input
+END
+InputPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/XNA_WS_07-08/!svn/ver/988/trunk/Input/InputPlugin.cs
+END
+HumanPlayer1InputPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/XNA_WS_07-08/!svn/ver/751/trunk/Input/HumanPlayer1InputPlugin.cs
+END
+HumanPlayer2InputPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/XNA_WS_07-08/!svn/ver/751/trunk/Input/HumanPlayer2InputPlugin.cs
+END
+NullInputPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/XNA_WS_07-08/!svn/ver/127/trunk/Input/NullInputPlugin.cs
+END

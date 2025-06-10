@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Physics>
+	<Type>RigidBody</Type>
+	<Mass>1000f</Mass>
+	<MassCenter>20f 30f 10f</MassCenter>
+	<Stabilization></Stabilization>
+	<Gravity></Gravity>
+</Physics>

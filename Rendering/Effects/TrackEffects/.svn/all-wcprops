@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/XNA_WS_07-08/!svn/ver/1067/trunk/Rendering/Effects/TrackEffects
+END
+TrackBaseEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/XNA_WS_07-08/!svn/ver/1067/trunk/Rendering/Effects/TrackEffects/TrackBaseEffect.cs
+END
+ManagedTrackEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/XNA_WS_07-08/!svn/ver/580/trunk/Rendering/Effects/TrackEffects/ManagedTrackEffect.cs
+END
+TrackBackEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/XNA_WS_07-08/!svn/ver/751/trunk/Rendering/Effects/TrackEffects/TrackBackEffect.cs
+END
+TrackLavaPitEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/XNA_WS_07-08/!svn/ver/580/trunk/Rendering/Effects/TrackEffects/TrackLavaPitEffect.cs
+END
+TrackSignEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/XNA_WS_07-08/!svn/ver/751/trunk/Rendering/Effects/TrackEffects/TrackSignEffect.cs
+END
+TrackWindowEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/XNA_WS_07-08/!svn/ver/580/trunk/Rendering/Effects/TrackEffects/TrackWindowEffect.cs
+END

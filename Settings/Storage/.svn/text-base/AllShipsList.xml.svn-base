@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" ?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<string>Content/Models/Ship/airtrain1</string>
+	<string>Content/Models/Ship/delorean1</string>
+	<string>Content/Models/Ship/dirtynutshell1</string>
+	<string>Content/Models/Ship/enterprise1</string>
+	<string>Content/Models/Ship/futurama1</string>
+	<string>Content/Models/Ship/hovercar1</string>
+	<string>Content/Models/Ship/hypersonic1</string>
+	<string>Content/Models/Ship/schakira1</string>
+	<string>Content/Models/Ship/spaceshuttle1</string>
+	<string>Content/Models/Ship/titanic1</string>
+
+</ArrayOfString>

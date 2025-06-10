@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+	<GeneralInfo>
+		<TypeName>box1</TypeName>
+		<ModelName>Box</ModelName>
+	</GeneralInfo>
+	
+	<Physics>
+		<Type>SolidBody</Type>
+		<Mass>1000</Mass>
+		<MassCenter>0 0 0</MassCenter>
+		<ThrustFactor>0.004</ThrustFactor>
+		<SteeringFactor>0.003</SteeringFactor>
+		<Hover>true</Hover>
+		<Drag>true</Drag>
+		<DragFactor>2 2 2</DragFactor>
+		<Gravity>true</Gravity>
+	</Physics>
+
+	<Rendering>
+		<Type>MainRenderer</Type>
+		<Paths>
+			<Item>
+				<Key>mesh</Key>
+				<Value>Content/Models/OtherStuff/box</Value>
+			</Item>
+			<Item>
+				<Key>tex1</Key>
+				<Value>OtherStuff/box</Value>
+			</Item>
+			<Item>
+				<Key>shader1</Key>
+				<Value>Phong</Value>
+			</Item>			
+		</Paths>
+		<MatrixParameters>
+			<Item>
+				<Key>orientation</Key>
+				<Value>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Value>
+			</Item>
+		</MatrixParameters>
+		<VectorParameters>
+			<Item>
+				<Key>position</Key>
+				<Value>10 10 10 1</Value>
+			</Item>
+		</VectorParameters>
+		<FloatParameters>
+			<Item>
+				<Key>scale</Key>
+				<Value>0.3</Value>
+			</Item>
+		</FloatParameters>
+		<BoolParameters>
+				  
+		</BoolParameters>
+		<IntParameters>
+			
+		</IntParameters>
+	</Rendering>
+
+	<Logic>
+		<Type>WALL</Type>
+		<Health>10</Health>
+		<Damage>0.001</Damage>
+		<Position>
+			0 0 0
+		</Position>
+		<Scale>
+			1 1 1
+		</Scale>
+		<Orientation>
+			1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+		</Orientation>
+	</Logic>
+
+	<Input>
+		<Type>NULL</Type>
+	</Input>
+	
+</Asset>
+</XnaContent>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+	<GeneralInfo>
+		<TypeName>RigidShip</TypeName>
+		<ModelName>Opferschiff</ModelName>
+	</GeneralInfo>
+	
+	<Physics>
+		<Type>RigidBody</Type>
+		<Mass>1000</Mass>
+		<MassCenter>0 0 0</MassCenter>
+		<ThrustFactor>0.003</ThrustFactor>
+		<SteeringFactor>0.003</SteeringFactor>
+		<Hover>true</Hover>
+		<Drag>true</Drag>
+		<DragFactor>3 3 3</DragFactor>
+		<Gravity>true</Gravity>
+	</Physics>
+
+	<Rendering>
+		<Type>MainRenderer</Type>
+		<Paths>
+			<Item>
+				<Key>mesh</Key>
+				<Value>Content/Models/Ship/enterprise</Value>
+			</Item>
+			<Item>
+				<Key>tex1</Key>
+				<Value>Ship/enterprise</Value>
+			</Item>
+			<Item>
+				<Key>shader1</Key>
+				<Value>Phong</Value>
+			</Item>
+		</Paths>
+		<MatrixParameters>
+			<Item>
+				<Key>orientation</Key>
+				<Value>0 0 -1 0 0 1 0 0 1 0 0 0 0 0 0 1</Value>
+			</Item>
+		</MatrixParameters>
+		<VectorParameters>
+			<Item>
+				<Key>position</Key>
+				<Value>0 0 0 1</Value>
+			</Item>
+		</VectorParameters>
+		<FloatParameters>
+			<Item>
+				<Key>scale</Key>
+				<Value>0.05</Value>
+			</Item>
+		</FloatParameters>
+		<BoolParameters>
+
+		</BoolParameters>
+		<IntParameters>
+
+		</IntParameters>
+	</Rendering>
+
+	<Logic>
+		<Type>SHIP</Type>
+		<Health>10</Health>
+		<Damage>0.001</Damage>
+		<Position>
+		</Position>
+		<Scale>
+		</Scale>
+		<Orientation>
+		</Orientation>
+	</Logic>
+
+	<Input>
+		<Type>NULL</Type>
+	</Input>
+	
+</Asset>
+</XnaContent>

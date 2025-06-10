@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+		<GeneralInfo>
+			<TypeName>AIShip5</TypeName>
+			<ModelName>Futurama</ModelName>
+		</GeneralInfo>
+
+		<Physics>
+			<Type>SteeringBody</Type>
+			<Mass>1800</Mass>
+			<MassCenter>0 0 0</MassCenter>
+			<ThrustFactor>0.005</ThrustFactor>
+			<SteeringFactor>0.004</SteeringFactor>
+			<Hover>true</Hover>
+			<Drag>true</Drag>
+			<DragFactor>2 2 2</DragFactor>
+			<Gravity>true</Gravity>
+		</Physics>
+
+		<Rendering>
+			<Type>MainRenderer</Type>
+			<Paths>
+				<Item>
+					<Key>mesh</Key>
+					<Value>Content/Models/Ship/futurama</Value>
+				</Item>
+				<Item>
+					<Key>tex1</Key>
+					<Value>Ship/futurama</Value>
+				</Item>
+				<Item>
+					<Key>shader1</Key>
+					<Value>Toon</Value>
+				</Item>
+			</Paths>
+			<MatrixParameters>
+				<Item>
+					<Key>orientation</Key>
+					<Value>0 0 -1 0 0 1 0 0 1 0 0 0 0 0 0 1</Value>
+				</Item>
+			</MatrixParameters>
+			<VectorParameters>
+				<Item>
+					<Key>position</Key>
+					<Value>10 10 10 1</Value>
+				</Item>
+			</VectorParameters>
+			<FloatParameters>
+				<Item>
+					<Key>scale</Key>
+					<Value>0.07</Value>
+				</Item>
+			</FloatParameters>
+			<BoolParameters>
+
+			</BoolParameters>
+			<IntParameters>
+
+			</IntParameters>
+		</Rendering>
+
+		<Logic>
+			<Type>SHIP</Type>
+			<Health>10</Health>
+			<Damage>0.001</Damage>
+			<Position>
+				0 2.15 6.1
+			</Position>
+			<Scale>
+				2.5 4 2.5
+			</Scale>
+			<Orientation>
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+			</Orientation>
+		</Logic>
+
+		<Input>
+			<Type>AI_WAYPOINT</Type>
+		</Input>
+
+	</Asset>
+</XnaContent>

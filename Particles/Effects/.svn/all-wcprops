@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/XNA_WS_07-08/!svn/ver/943/trunk/Particles/Effects
+END
+ExplosionEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/XNA_WS_07-08/!svn/ver/943/trunk/Particles/Effects/ExplosionEffect.cs
+END
+PowerUpEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/XNA_WS_07-08/!svn/ver/943/trunk/Particles/Effects/PowerUpEffect.cs
+END
+ParticleMapEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/XNA_WS_07-08/!svn/ver/796/trunk/Particles/Effects/ParticleMapEffect.cs
+END
+ParticleEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/XNA_WS_07-08/!svn/ver/943/trunk/Particles/Effects/ParticleEffect.cs
+END
+FireEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/XNA_WS_07-08/!svn/ver/943/trunk/Particles/Effects/FireEffect.cs
+END
+ThrustEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/XNA_WS_07-08/!svn/ver/816/trunk/Particles/Effects/ThrustEffect.cs
+END
+ParticleAdvancedEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/XNA_WS_07-08/!svn/ver/751/trunk/Particles/Effects/ParticleAdvancedEffect.cs
+END
+BillboardEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/XNA_WS_07-08/!svn/ver/675/trunk/Particles/Effects/BillboardEffect.cs
+END

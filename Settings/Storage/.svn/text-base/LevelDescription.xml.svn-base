@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<KeyBindigns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LayoutArray>
+    <LayoutListEntry>
+      <layoutname>defaultLayout</layoutname>
+      <KeyDefinitions>
+        <KeyDefinition>
+          <keyName>key</keyName>
+          <actionName>action</actionName>
+        </KeyDefinition>
+      </KeyDefinitions>
+    </LayoutListEntry>
+  </LayoutArray>
+</KeyBindigns>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="PraktWS0708.ContentHandler.ContentInput">
+
+		<GeneralInfo>
+			<TypeName>AIShip3</TypeName>
+			<ModelName>DirtyNutShell</ModelName>
+		</GeneralInfo>
+
+		<Physics>
+			<Type>SteeringBody</Type>
+			<Mass>500</Mass>
+			<MassCenter>0 0 0</MassCenter>
+			<ThrustFactor>0.0015</ThrustFactor>
+			<SteeringFactor>0.0075</SteeringFactor>
+			<Hover>true</Hover>
+			<Drag>true</Drag>
+			<DragFactor>2 2 2</DragFactor>
+			<Gravity>true</Gravity>
+		</Physics>
+
+		<Rendering>
+			<Type>MainRenderer</Type>
+			<Paths>
+				<Item>
+					<Key>mesh</Key>
+					<Value>Content/Models/Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>tex1</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader1</Key>
+					<Value>Chrome</Value>
+				</Item>
+				<Item>
+					<Key>tex2</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader2</Key>
+					<Value>Chrome</Value>
+				</Item>
+				<Item>
+					<Key>tex3</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader3</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex4</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader4</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex5</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader5</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex6</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader6</Key>
+					<Value>Phong</Value>
+				</Item>
+				<Item>
+					<Key>tex7</Key>
+					<Value>Ship/dirtynutshell</Value>
+				</Item>
+				<Item>
+					<Key>shader7</Key>
+					<Value>Phong</Value>
+				</Item>
+			</Paths>
+			<MatrixParameters>
+				<Item>
+					<Key>orientation</Key>
+					<Value>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Value>
+				</Item>
+			</MatrixParameters>
+			<VectorParameters>
+				<Item>
+					<Key>position</Key>
+					<Value>10 10 10 1</Value>
+				</Item>
+			</VectorParameters>
+			<FloatParameters>
+				<Item>
+					<Key>scale</Key>
+					<Value>0.04</Value>
+				</Item>
+			</FloatParameters>
+			<BoolParameters>
+
+			</BoolParameters>
+			<IntParameters>
+
+			</IntParameters>
+		</Rendering>
+
+		<Logic>
+			<Type>SHIP</Type>
+			<Health>10</Health>
+			<Damage>0.001</Damage>
+			<Position>
+				-3.1 2.3 6.55
+				3.1 2.3 6.55
+			</Position>
+			<Scale>
+				1 2 1
+				1 2 1
+			</Scale>
+			<Orientation>
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+				1 0 0 0 0 -0.00000004371139 -1 0 0 1 -0.00000004371139 0 0 0 0 1
+			</Orientation>
+		</Logic>
+
+		<Input>
+			<Type>AI_WAYPOINT</Type>
+		</Input>
+
+	</Asset>
+</XnaContent>
